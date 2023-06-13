@@ -54,9 +54,7 @@ The following diagram depicts some important parts of Node.js which we will disc
 ![image](/images/nodejsDiagram.jpg)
 
 <br>
-
-<br>
-In simple scenario,
+In a simple scenario,
 <br>
 <br>
 
