@@ -51,11 +51,6 @@ The following diagram depicts some important parts of Node.js which we will disc
 
 <h4 align ="center" >
 
-
-
-
-
-<br>
 <br>
 
 ![image](/images/nodejs_concepts.jpg)
