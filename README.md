@@ -67,11 +67,11 @@ Now .msi file will be downloaded to your browser. Choose the desired location fo
 
 ### Step 2: Install Node.js and NPM
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-2.png)
 
-</p>
+</h1>
 After choosing the path, double-click to install .msi binary files to initiate the installation process. Then give access to run the application.
 
 You will get a welcome message on your screen and click the “Next” button. The installation process will start.
