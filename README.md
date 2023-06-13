@@ -15,7 +15,6 @@ NODE JS
 
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#Prerequisites">Prerequisites</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Concepts">Concepts</a> •
   <a href="#Features">Features</a> •
