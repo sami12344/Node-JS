@@ -48,12 +48,12 @@ Node.js = Runtime Environment + JavaScript Library
 ## Concepts
 The following diagram depicts some important parts of Node.js which we will discuss in detail in the subsequent chapters.
 
-<p align = "center" >
+<h1 align ="center" >
 
 ![image](/images/nodejs_concepts.jpg)
 ![image](/images/nodejsDiagram.jpg)
 
-</p>
+</h1>
 ## Features
 
 ### 1. Single Threaded
