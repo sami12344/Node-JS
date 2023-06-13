@@ -15,6 +15,7 @@ NODE JS
 
 <p align="center">
   <a href="#About">About</a> •
+  <a href="#Prerequisites">Prerequisites</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Concepts">Concepts</a> •
   <a href="#Features">Features</a> •
@@ -46,6 +47,29 @@ In conclusion, Node.js has revolutionized the way we approach server-side develo
 ```
 Node.js = Runtime Environment + JavaScript Library
 ```
+
+## Prerequisites
+
+Here’s what you need to go ahead with NodeJs and NPM.
+
+### Hardware Requirements
+
+<div align="center">
+  <div style="display: flex;">
+   <div>
+   <h4>Node minimum requirements</h4>
+   </div>
+      <div>
+   <h4>Node recommended specs</h4>
+   </div>
+  </div>
+</div>
+
+### Software Requirement
+
+Chocolatey
+## Installation
+
 ## Concepts
 The following diagram depicts some important parts of Node.js which we will discuss in detail in the subsequent chapters.
 
