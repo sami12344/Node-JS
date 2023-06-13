@@ -51,7 +51,7 @@ Node.js = Runtime Environment + JavaScript Library
 ## Installation
 
 ### Step 1: Download the Installer
-<p>Download the <b>Windows Installer</b> from <a href='https://nodejs.org/en'>NodeJs official website</a>NodeJs official website. Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.
+<p>Download the <b>Windows Installer</b> from <a href='https://nodejs.org/en'>NodeJs official website</a> NodeJs official website. Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.
 </p>
 
 Here, we are choosing the 64-bit version of the Node.js installer.
