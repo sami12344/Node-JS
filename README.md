@@ -56,11 +56,11 @@ Node.js = Runtime Environment + JavaScript Library
 
 Here, we are choosing the 64-bit version of the Node.js installer.
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-1.png)
 
-</p>
+</h1>
 The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.
 
 Now .msi file will be downloaded to your browser. Choose the desired location for that.
