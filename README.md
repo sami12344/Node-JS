@@ -48,30 +48,105 @@ In conclusion, Node.js has revolutionized the way we approach server-side develo
 Node.js = Runtime Environment + JavaScript Library
 ```
 
-## Prerequisites
-
-Here’s what you need to go ahead with NodeJs and NPM.
-
-### Hardware Requirements
-
-<div align="center">
-  <div style="display: flex;">
-   <div>
-   <h4>Node minimum requirements</h4>
-   </div>
-      <div>
-   <h4>Node recommended specs</h4>
-   </div>
-  </div>
-</div>
-
-### Software Requirement
-
-Chocolatey
 ## Installation
 
+### Step 1: Download the Installer
+<p>Download the <b>Windows Installer</b> from <a href='https://nodejs.org/en'>NodeJs official website</a>NodeJs official website. Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.
+</p>
+
+Here, we are choosing the 64-bit version of the Node.js installer.
+
+<p align="center">
+
+![image](/images/step-1.png)
+
+</p>
+The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.
+
+Now .msi file will be downloaded to your browser. Choose the desired location for that.
+
+### Step 2: Install Node.js and NPM
+
+<p align="center">
+
+![image](/images/step-2.png)
+
+</p>
+After choosing the path, double-click to install .msi binary files to initiate the installation process. Then give access to run the application.
+
+You will get a welcome message on your screen and click the “Next” button. The installation process will start.
+
+#### Choose the desired path where you want to install Node.js.
+
+<p align="center">
+
+![image](/images/step-2_1.png)
+
+</p>
+By clicking on the Next button, you will get a custom page setup on the screen. Make sure you choose npm package manager , not the default of Node.js runtime . This way, we can install Node and NPM simultaneously.
+
+#### You should have 143MB of space to install Node.js and npm features.
+<b>The following features will be installed by default:</b>
+<ul>
+<li>Node.js runtime</li>
+<li>Npm package manager</li>
+<li>Online documentation shortcuts</li>
+<li>Add to Path</li>
+</ul>
+
+<p align="center">
+
+![image](/images/step-2_2.png)
+
+</p>
+
+Bang! The setup is ready to install Node and NPM. Let’s click on the <b>Install</b> button so hard!
+
+<p align="center">
+
+![image](/images/step-2_3.png)
+
+</p>
+
+
+
+### Step 3: Check Node.js and NPM Version
+
+If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
+
+<p align="center">
+
+![image](/images/step-3.png)
+
+</p>
+
+Command Prompt window will appear on the screen.
+
+To confirm Node installation, type node -v  command.
+
+```
+
+node -v 
+
+```
+
+To confirm NPM installation, type the npm -v command.
+
+```
+npm -v
+
+```
+
+And you don’t need to worry if you see different numbers than mine as Node and NPM are updated frequently.
+
+<p align="center">
+
+![image](/images/step-3_1.png)
+
+</p>
 ## Concepts
 The following diagram depicts some important parts of Node.js which we will discuss in detail in the subsequent chapters.
+
 
 <h4 align ="center" >
 
