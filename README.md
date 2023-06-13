@@ -51,8 +51,12 @@ The following diagram depicts some important parts of Node.js which we will disc
 
 <h1 align ="center" >
 
-![image](/images/nodejs_concepts.jpg)
 ![image](/images/nodejsDiagram.jpg)
+<br>
+In simple scenario,
+<br>
+![image](/images/nodejs_concepts.jpg)
+
 
 </h1>
 ## Features
