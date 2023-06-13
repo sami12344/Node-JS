@@ -62,8 +62,8 @@ In simple scenario,
 
 ![image](/images/nodejs_concepts.jpg)
 
-
 </h4>
+
 ## Features
 
 ### 1. Single Threaded
