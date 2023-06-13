@@ -78,11 +78,11 @@ You will get a welcome message on your screen and click the “Next” button. T
 
 #### Choose the desired path where you want to install Node.js.
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-2_1.png)
 
-</p>
+</h1>
 By clicking on the Next button, you will get a custom page setup on the screen. Make sure you choose npm package manager , not the default of Node.js runtime . This way, we can install Node and NPM simultaneously.
 
 #### You should have 143MB of space to install Node.js and npm features.
@@ -94,19 +94,19 @@ By clicking on the Next button, you will get a custom page setup on the screen. 
 <li>Add to Path</li>
 </ul>
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-2_2.png)
 
-</p>
+</h1>
 
 Bang! The setup is ready to install Node and NPM. Let’s click on the <b>Install</b> button so hard!
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-2_3.png)
 
-</p>
+</h1>
 
 
 
@@ -114,11 +114,11 @@ Bang! The setup is ready to install Node and NPM. Let’s click on the <b>Instal
 
 If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-3.png)
 
-</p>
+</h1>
 
 Command Prompt window will appear on the screen.
 
@@ -126,24 +126,25 @@ To confirm Node installation, type node -v  command.
 
 ```
 
-node -v 
+$ node -v 
 
 ```
 
 To confirm NPM installation, type the npm -v command.
 
 ```
-npm -v
+$ npm -v
 
 ```
 
 And you don’t need to worry if you see different numbers than mine as Node and NPM are updated frequently.
 
-<p align="center">
+<h1 align="center">
 
 ![image](/images/step-3_1.png)
 
-</p>
+</h1>
+
 ## Concepts
 The following diagram depicts some important parts of Node.js which we will discuss in detail in the subsequent chapters.
 
