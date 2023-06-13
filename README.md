@@ -7,10 +7,11 @@ NODE JS
 <h4 align="center">Node.js is a fast, scalable JavaScript runtime environment commonly used for server-side applications and web development, known for its event-driven, non-blocking I/O model.</h4>
 <br>
 
-<p align="center">
+<h1 align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-</p>
+
+</h1>
 
 <p align="center">
   <a href="#About">About</a> •
