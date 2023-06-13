@@ -125,14 +125,14 @@ To confirm Node installation, type node -v  command.
 
 ```
 
-$ node -v 
+node -v 
 
 ```
 
 To confirm NPM installation, type the npm -v command.
 
 ```
-$ npm -v
+npm -v
 
 ```
 
