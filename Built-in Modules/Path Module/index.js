@@ -39,7 +39,7 @@ const path = require('node:path')
 // console.log(path.join('/folder1', '//folder2', '../index.html')) // => \folder1\index.html
 
 // console.log(path.join(__dirname, 'index.html')) // => c:\Users\sadiq\OneDrive\Desktop\Sami\Node JS\Built-in Modules\index.html
-
+ 
 //==========================path.resolve=====================//
 
 console.log(path.resolve('folder1', 'folder2', 'index.html')) //=> c:\Users\sadiq\OneDrive\Desktop\Sami\Node JS\Built-in Modules\folder1\folder2\index.html
